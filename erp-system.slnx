@@ -1,0 +1,13 @@
+<Solution>
+  <Folder Name="/src/" />
+  <Folder Name="/src/host/">
+    <Project Path="src/host/Application/Application.ErpSystemFrontEnd.csproj" />
+    <Project Path="src/host/Domain/Domain.ErpSystemFrontEnd.csproj" />
+    <Project Path="src/host/Infrastructure/Infrastructure.ErpSystemFrontEnd.csproj" />
+  </Folder>
+  <Folder Name="/src/modules/" />
+  <Folder Name="/src/modules/technology/" />
+  <Folder Name="/src/shared/">
+    <Project Path="src/shared/UI.Shared/UI.Shared.csproj" Id="7ad124b8-7820-4a09-807d-6d249fbfec7d" />
+  </Folder>
+</Solution>
